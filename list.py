@@ -1,3 +1,2 @@
-l=[10,'ws',5.6]
-l[2]=10
-print(l,type(l))
+friends=["apple","banana",5,345.06,false,"Aakash","Rohan"]
+print(friends[0]) #unlike strings list mutable
