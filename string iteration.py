@@ -16,8 +16,17 @@ for a in range(t): #21
 
 
 
+
 #reverse
 print("")
-for loop in range(-1,-1,-1):#21
+for a in range(-1,-1,-1):#21
     print(W[a])
 
+
+
+
+W="Welcome to Wscubetech"
+
+for a in W:
+    print(a)
+    
