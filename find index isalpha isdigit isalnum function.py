@@ -15,6 +15,6 @@ w="45066"
 print(w.isdigit())
 
 #isalnum
-w="Welcome2344@"
+w="Welcome2344"#@
 print(w.isalnum())
 
