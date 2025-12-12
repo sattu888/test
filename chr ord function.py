@@ -8,6 +8,5 @@ a=67;
 print(chr(a))
 
 #ord()
-
 h='a'
 print(ord(h))
